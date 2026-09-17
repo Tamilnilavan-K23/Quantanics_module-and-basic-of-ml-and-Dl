@@ -1,0 +1,23 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+*.venv/
+**/project/.venv/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Exclude specific files larger than 100MB (GitHub 100MB limit)
+machine learning/dataset/train_JDXlpm8/train/transactions.csv

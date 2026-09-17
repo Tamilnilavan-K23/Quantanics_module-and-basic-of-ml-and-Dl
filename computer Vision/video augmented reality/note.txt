@@ -1,0 +1,3 @@
+ code worked after installing the opencv-contrib-python package with a specific version
+
+pip install opencv-contrib-python==4.6.0.66
