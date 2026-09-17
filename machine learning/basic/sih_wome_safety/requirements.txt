@@ -1,0 +1,7 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+pip==25.0.1
+paho-mqtt==2.1.0
+mysql-connector==2.2.9
+twilio==9.5.2
+pyttsx3==2.98
